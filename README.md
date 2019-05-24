@@ -1,2 +1,2 @@
 # netflix-landing-page
-Netflix's landing page coded for fun
+Traversy's project coded for fun with some custom JavaScript 
