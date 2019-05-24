@@ -322,10 +322,6 @@ img {
     transform: translate(0);
   }
 
-  .showcase-content {
-    margin-top: 48vw;
-  }
-
   .showcase-content h1 {
     font-size: 3.7rem;
     line-height: 1;
@@ -369,10 +365,6 @@ img {
     grid-template-columns: 1fr;
     grid-gap: 2rem;
     text-align: center;
-  }
-
-  .showcase-content {
-    margin-top: 38vw;
   }
 
   .showcase-top a {
