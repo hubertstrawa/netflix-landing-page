@@ -36,7 +36,7 @@ function removeShow() {
 
 function changeContainer(width) {
   if (width.matches) {
-    container.style.maxWidth = '100%';
+    container.style.maxWidth = '90%';
   }
 }
 
